@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"his title suggests that Granny Remake is a horror-themed game or project that offers a fresh take on the genre.",
+   "photo1":"https://iili.io/J9aIWlt.webp"},
+  {"desc2":"This title would delve into the specific gameplay elements and mechanics featured in Granny Remake, providing insights for potential players.",
+"photo2":"https://iili.io/J9aIjJn.jpg"},
+  {"desc3":"This title discusses how Granny Remake fits into the broader landscape of horror gaming and what innovations or contributions it brings to the genre.",
+"photo3":"https://iili.io/J9aIXUX.jpg"},
+  {"desc4":"Here, you can expect advice and strategies for players looking to navigate and succeed in the game.",
+"photo4":"https://iili.io/J9aIVfI.webp"},
+  {"desc5":"This title could provide information about the development process, the team behind the project, and any interesting anecdotes from the creation of  Granny Remake.",
+"photo5":"https://iili.io/J9aINOG.jpg"},
+  {"descd":"If  Granny Remake  is indeed a remake of a previous game, this title would highlight the differences and improvements made in the new version.",
+"photod":"https://iili.io/J9aIObf.jpg"}
    ]
  
 }
